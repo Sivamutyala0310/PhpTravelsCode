@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PhpTravelsSuite]">
+  <test thread-count="5" name="PhpTest(failed)">
+    <classes>
+      <class name="com.atmecs.phptravels.tests.PhpTravels_signUp">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="getClose"/>
+          <include name="startReports"/>
+          <include name="signUp" invocation-numbers="0"/>
+          <include name="getReport"/>
+        </methods>
+      </class> <!-- com.atmecs.phptravels.tests.PhpTravels_signUp -->
+    </classes>
+  </test> <!-- PhpTest(failed) -->
+</suite> <!-- Failed suite [PhpTravelsSuite] -->

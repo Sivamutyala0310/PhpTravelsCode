@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="170499" started-at="2019-09-18T15:20:58Z" finished-at="2019-09-18T15:23:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="170499" started-at="2019-09-18T15:20:58Z" finished-at="2019-09-18T15:23:49Z">
+      <class name="com.atmecs.phptravels.tests.PhpTravels_signUp">
+        <test-method status="PASS" signature="startReports()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="startReports" is-config="true" duration-ms="186" started-at="2019-09-18T15:20:58Z" finished-at="2019-09-18T15:20:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReports -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="initializeBrowser" is-config="true" duration-ms="23357" started-at="2019-09-18T15:20:59Z" finished-at="2019-09-18T15:21:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="signUp" duration-ms="17593" started-at="2019-09-18T15:21:23Z" data-provider="testdata" finished-at="2019-09-18T15:21:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mutyala]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9989233795]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[msiva
+@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[siva123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[siva123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="getReport" is-config="true" duration-ms="2" started-at="2019-09-18T15:21:40Z" finished-at="2019-09-18T15:21:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUp status=SUCCESS method=PhpTravels_signUp.signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="initializeBrowser" is-config="true" duration-ms="15387" started-at="2019-09-18T15:21:40Z" finished-at="2019-09-18T15:21:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="signUp" duration-ms="17157" started-at="2019-09-18T15:21:56Z" data-provider="testdata" finished-at="2019-09-18T15:22:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[suresh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mutyala]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8099988910]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[msuresh
+@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[suresh123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[suresh123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="getReport" is-config="true" duration-ms="1" started-at="2019-09-18T15:22:13Z" finished-at="2019-09-18T15:22:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUp status=SUCCESS method=PhpTravels_signUp.signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="initializeBrowser" is-config="true" duration-ms="11459" started-at="2019-09-18T15:22:13Z" finished-at="2019-09-18T15:22:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="signUp" duration-ms="15598" started-at="2019-09-18T15:22:24Z" data-provider="testdata" finished-at="2019-09-18T15:22:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sampath]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nallamilli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8985239999]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[nsampath
+@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[sampath123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[sampath123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="getReport" is-config="true" duration-ms="1" started-at="2019-09-18T15:22:40Z" finished-at="2019-09-18T15:22:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUp status=SUCCESS method=PhpTravels_signUp.signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="initializeBrowser" is-config="true" duration-ms="15724" started-at="2019-09-18T15:22:40Z" finished-at="2019-09-18T15:22:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="signUp" duration-ms="19248" started-at="2019-09-18T15:22:56Z" data-provider="testdata" finished-at="2019-09-18T15:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anvesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chinthapalli]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9502409445]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[anvesh
+@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[anvesh123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[anvesh123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="getReport" is-config="true" duration-ms="0" started-at="2019-09-18T15:23:15Z" finished-at="2019-09-18T15:23:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUp status=SUCCESS method=PhpTravels_signUp.signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="initializeBrowser()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="initializeBrowser" is-config="true" duration-ms="14828" started-at="2019-09-18T15:23:15Z" finished-at="2019-09-18T15:23:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeBrowser -->
+        <test-method status="PASS" signature="signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="signUp" duration-ms="18743" started-at="2019-09-18T15:23:30Z" data-provider="testdata" finished-at="2019-09-18T15:23:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[syam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[nallamati]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[9885707999]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[syam
+@gmail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[syam123]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[syam123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUp -->
+        <test-method status="PASS" signature="getReport(org.testng.ITestResult)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="getReport" is-config="true" duration-ms="0" started-at="2019-09-18T15:23:48Z" finished-at="2019-09-18T15:23:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUp status=SUCCESS method=PhpTravels_signUp.signUp(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getReport -->
+        <test-method status="PASS" signature="getClose()[pri:0, instance:com.atmecs.phptravels.tests.PhpTravels_signUp@5ae63ade]" name="getClose" is-config="true" duration-ms="428" started-at="2019-09-18T15:23:48Z" finished-at="2019-09-18T15:23:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getClose -->
+      </class> <!-- com.atmecs.phptravels.tests.PhpTravels_signUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

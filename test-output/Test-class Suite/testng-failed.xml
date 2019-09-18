@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Test-class Suite]" parallel="tests">
+  <test thread-count="5" name="Test2(failed)" parallel="tests">
+    <parameter name="selectBrowser" value="firefox"/>
+    <classes>
+      <class name="com.atmecs.phptravels.tests.PhpTravels_signUp">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="signUp" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- com.atmecs.phptravels.tests.PhpTravels_signUp -->
+    </classes>
+  </test> <!-- Test2(failed) -->
+  <test thread-count="5" name="Test1(failed)" parallel="tests">
+    <parameter name="selectBrowser" value="chrome"/>
+    <classes>
+      <class name="com.atmecs.phptravels.tests.PhpTravels_signUp">
+        <methods>
+          <include name="initializeBrowser"/>
+          <include name="signUp" invocation-numbers="0 1 2 3 4"/>
+        </methods>
+      </class> <!-- com.atmecs.phptravels.tests.PhpTravels_signUp -->
+    </classes>
+  </test> <!-- Test1(failed) -->
+</suite> <!-- Failed suite [Test-class Suite] -->

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test-class Suite" parallel="tests" thread-count="5">
+	<test thread-count="5" name="Test1">
+		<parameter name="selectBrowser" value="chrome" />
+		<classes>
+			<class name="com.atmecs.phptravels.tests.PhpTravels_signUp" />
+		</classes>
+	</test>
+	<test thread-count="5" name="Test2"> 
+	 <parameter name="selectBrowser" value="firefox" /> 
+	<classes> 
+	 <class name="com.atmecs.phptravels.tests.PhpTravels_signUp" /> 
+	 </classes> 
+	 </test> 
+</suite>
+

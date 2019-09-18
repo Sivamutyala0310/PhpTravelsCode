@@ -1,0 +1,687 @@
+2019-09-18 16:55:46,548  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 16:55:50,029  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 16:55:50,029  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 16:55:51,363  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:55:51,486  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 16:55:51,592  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 16:55:51,699  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 16:55:51,821  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 16:55:51,928  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 16:55:52,038  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 16:55:52,362  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 16:55:52,366  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 16:55:53,560  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 16:55:53
+2019-09-18 16:55:54,693  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:55:54,693  INFO [main] LogReports:26 - user profile creation  time is: 16:55:54
+2019-09-18 16:55:54,947  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:55:54,947  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 16:55:55,150  INFO [main] LogReports:26 - fetching actual firstname value from profile :siva
+2019-09-18 16:55:55,197  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:55:55,494  INFO [main] LogReports:26 - fetching actual Lastname value from profile :mutyala
+2019-09-18 16:55:55,697  INFO [main] LogReports:26 - fetching actual mobile number value from profile :9989233795
+2019-09-18 16:55:55,858  INFO [main] LogReports:26 - fetching actual email value from profile :msiva@gmail.com
+2019-09-18 16:55:56,030  INFO [main] LogReports:26 - actual profile is:Hi, siva mutyala
+2019-09-18 16:55:56,046  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 16:55:56,046  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 16:55:56,046  INFO [main] LogReports:26 - Assertion failed :  user profile not matched: Actual data : Hi, siva mutyala   Expected :H, siva mutyala
+2019-09-18 16:55:56,046  INFO [main] LogReports:26 - user profile creation validated successfully
+2019-09-18 16:55:56,671  INFO [main] LogReports:26 - validating SignUp Email field
+2019-09-18 16:55:57,733  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:55:58,757  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:55:59,937  INFO [main] LogReports:26 -  Asserting SignUpEmail field
+2019-09-18 16:55:59,937  INFO [main] LogReports:26 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 16:55:59,937  INFO [main] LogReports:26 - validating SignUp field
+2019-09-18 16:56:00,234  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:01,218  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:01,550  INFO [main] LogReports:26 - without filling any required fields directly clicking on signUp function
+2019-09-18 16:56:01,769  INFO [main] LogReports:26 - Asseting SignUp field
+2019-09-18 16:56:01,769  INFO [main] LogReports:26 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 16:56:02,081  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:03,253  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:04,365  INFO [main] LogReports:26 - Asserting password and confirm password fields
+2019-09-18 16:56:04,365  INFO [main] LogReports:26 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 16:56:10,334  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 16:56:15,180  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 16:56:15,180  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 16:56:16,595  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:16,747  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 16:56:16,857  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 16:56:16,982  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 16:56:17,107  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 16:56:17,216  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 16:56:17,341  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 16:56:17,575  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 16:56:17,591  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 16:56:18,850  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 16:56:18
+2019-09-18 16:56:19,758  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:56:19,758  INFO [main] LogReports:26 - user profile creation  time is: 16:56:19
+2019-09-18 16:56:20,008  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:56:20,008  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 16:56:20,221  INFO [main] LogReports:26 - fetching actual firstname value from profile :suresh
+2019-09-18 16:56:20,283  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:56:20,596  INFO [main] LogReports:26 - fetching actual Lastname value from profile :mutyala
+2019-09-18 16:56:20,846  INFO [main] LogReports:26 - fetching actual mobile number value from profile :8099988910
+2019-09-18 16:56:21,065  INFO [main] LogReports:26 - fetching actual email value from profile :msuresh@gmail.com
+2019-09-18 16:56:21,268  INFO [main] LogReports:26 - actual profile is:Hi, suresh mutyala
+2019-09-18 16:56:21,268  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 16:56:21,268  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 16:56:21,268  INFO [main] LogReports:26 - Assertion failed :  user profile not matched: Actual data : Hi, suresh mutyala   Expected :H, suresh mutyala
+2019-09-18 16:56:21,268  INFO [main] LogReports:26 - user profile creation validated successfully
+2019-09-18 16:56:21,924  INFO [main] LogReports:26 - validating SignUp Email field
+2019-09-18 16:56:23,705  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:24,764  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:26,376  INFO [main] LogReports:26 -  Asserting SignUpEmail field
+2019-09-18 16:56:26,376  INFO [main] LogReports:26 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 16:56:26,376  INFO [main] LogReports:26 - validating SignUp field
+2019-09-18 16:56:26,682  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:28,088  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:28,429  INFO [main] LogReports:26 - without filling any required fields directly clicking on signUp function
+2019-09-18 16:56:28,617  INFO [main] LogReports:26 - Asseting SignUp field
+2019-09-18 16:56:28,617  INFO [main] LogReports:26 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 16:56:28,945  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:29,992  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:31,360  INFO [main] LogReports:26 - Asserting password and confirm password fields
+2019-09-18 16:56:31,360  INFO [main] LogReports:26 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 16:56:43,452  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 16:56:47,813  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 16:56:47,813  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 16:56:49,009  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:49,154  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 16:56:49,279  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 16:56:49,404  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 16:56:49,544  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 16:56:49,763  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 16:56:49,919  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 16:56:50,185  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 16:56:50,185  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 16:56:51,552  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 16:56:51
+2019-09-18 16:56:52,436  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:56:52,436  INFO [main] LogReports:26 - user profile creation  time is: 16:56:52
+2019-09-18 16:56:52,702  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:56:52,702  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 16:56:52,934  INFO [main] LogReports:26 - fetching actual firstname value from profile :sampath
+2019-09-18 16:56:52,981  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:56:53,199  INFO [main] LogReports:26 - fetching actual Lastname value from profile :nallamilli
+2019-09-18 16:56:53,418  INFO [main] LogReports:26 - fetching actual mobile number value from profile :8985239999
+2019-09-18 16:56:53,606  INFO [main] LogReports:26 - fetching actual email value from profile :nsampath@gmail.com
+2019-09-18 16:56:53,777  INFO [main] LogReports:26 - actual profile is:Hi, sampath nallamilli
+2019-09-18 16:56:53,777  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 16:56:53,785  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 16:56:53,785  INFO [main] LogReports:26 - Assertion failed :  user profile not matched: Actual data : Hi, sampath nallamilli   Expected :H, sampath nallamilli
+2019-09-18 16:56:53,785  INFO [main] LogReports:26 - user profile creation validated successfully
+2019-09-18 16:56:54,505  INFO [main] LogReports:26 - validating SignUp Email field
+2019-09-18 16:56:55,740  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:56,815  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:58,031  INFO [main] LogReports:26 -  Asserting SignUpEmail field
+2019-09-18 16:56:58,031  INFO [main] LogReports:26 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 16:56:58,034  INFO [main] LogReports:26 - validating SignUp field
+2019-09-18 16:56:58,489  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:56:59,645  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:56:59,979  INFO [main] LogReports:26 - without filling any required fields directly clicking on signUp function
+2019-09-18 16:57:00,182  INFO [main] LogReports:26 - Asseting SignUp field
+2019-09-18 16:57:00,197  INFO [main] LogReports:26 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 16:57:00,526  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:01,697  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:02,886  INFO [main] LogReports:26 - Asserting password and confirm password fields
+2019-09-18 16:57:02,886  INFO [main] LogReports:26 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 16:57:09,871  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 16:57:14,512  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 16:57:14,513  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 16:57:15,886  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:16,019  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 16:57:16,212  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 16:57:16,315  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 16:57:16,441  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 16:57:16,562  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 16:57:16,696  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 16:57:16,945  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 16:57:16,946  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 16:57:18,407  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 16:57:18
+2019-09-18 16:57:18,738  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:57:18,738  INFO [main] LogReports:26 - user profile creation  time is: 16:57:18
+2019-09-18 16:57:19,004  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:57:19,004  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 16:57:19,238  INFO [main] LogReports:26 - fetching actual firstname value from profile :anvesh
+2019-09-18 16:57:19,285  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:57:19,488  INFO [main] LogReports:26 - fetching actual Lastname value from profile :chinthapalli
+2019-09-18 16:57:19,715  INFO [main] LogReports:26 - fetching actual mobile number value from profile :9502409445
+2019-09-18 16:57:19,902  INFO [main] LogReports:26 - fetching actual email value from profile :anvesh@gmail.com
+2019-09-18 16:57:20,121  INFO [main] LogReports:26 - actual profile is:Hi, anvesh chinthapalli
+2019-09-18 16:57:20,121  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 16:57:20,121  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 16:57:20,121  INFO [main] LogReports:26 - Assertion failed :  user profile not matched: Actual data : Hi, anvesh chinthapalli   Expected :H, anvesh chinthapalli
+2019-09-18 16:57:20,121  INFO [main] LogReports:26 - user profile creation validated successfully
+2019-09-18 16:57:20,871  INFO [main] LogReports:26 - validating SignUp Email field
+2019-09-18 16:57:21,939  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:22,961  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:24,185  INFO [main] LogReports:26 -  Asserting SignUpEmail field
+2019-09-18 16:57:24,185  INFO [main] LogReports:26 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 16:57:24,199  INFO [main] LogReports:26 - validating SignUp field
+2019-09-18 16:57:24,514  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:25,701  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:26,038  INFO [main] LogReports:26 - without filling any required fields directly clicking on signUp function
+2019-09-18 16:57:26,272  INFO [main] LogReports:26 - Asseting SignUp field
+2019-09-18 16:57:26,272  INFO [main] LogReports:26 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 16:57:26,601  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:27,694  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:28,927  INFO [main] LogReports:26 - Asserting password and confirm password fields
+2019-09-18 16:57:28,927  INFO [main] LogReports:26 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 16:57:36,608  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 16:57:43,066  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 16:57:43,066  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 16:57:44,501  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:44,619  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 16:57:44,791  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 16:57:44,916  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 16:57:45,088  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 16:57:45,197  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 16:57:45,322  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 16:57:45,728  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 16:57:45,728  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 16:57:47,090  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 16:57:47
+2019-09-18 16:57:48,025  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:57:48,025  INFO [main] LogReports:26 - user profile creation  time is: 16:57:47
+2019-09-18 16:57:48,228  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:57:48,228  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 16:57:48,432  INFO [main] LogReports:26 - fetching actual firstname value from profile :syam
+2019-09-18 16:57:48,494  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 16:57:48,728  INFO [main] LogReports:26 - fetching actual Lastname value from profile :nallamati
+2019-09-18 16:57:48,900  INFO [main] LogReports:26 - fetching actual mobile number value from profile :9885707999
+2019-09-18 16:57:49,119  INFO [main] LogReports:26 - fetching actual email value from profile :syam@gmail.com
+2019-09-18 16:57:49,307  INFO [main] LogReports:26 - actual profile is:Hi, syam nallamati
+2019-09-18 16:57:49,307  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 16:57:49,319  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 16:57:49,319  INFO [main] LogReports:26 - Assertion failed :  user profile not matched: Actual data : Hi, syam nallamati   Expected :H, syam nallamati
+2019-09-18 16:57:49,319  INFO [main] LogReports:26 - user profile creation validated successfully
+2019-09-18 16:57:50,008  INFO [main] LogReports:26 - validating SignUp Email field
+2019-09-18 16:57:51,086  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:52,170  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:53,614  INFO [main] LogReports:26 -  Asserting SignUpEmail field
+2019-09-18 16:57:53,614  INFO [main] LogReports:26 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 16:57:53,614  INFO [main] LogReports:26 - validating SignUp field
+2019-09-18 16:57:53,956  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:55,080  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:55,422  INFO [main] LogReports:26 - without filling any required fields directly clicking on signUp function
+2019-09-18 16:57:55,656  INFO [main] LogReports:26 - Asseting SignUp field
+2019-09-18 16:57:55,656  INFO [main] LogReports:26 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 16:57:56,000  INFO [main] LogReports:26 - clicking my accunt
+2019-09-18 16:57:57,047  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 16:57:58,382  INFO [main] LogReports:26 - Asserting password and confirm password fields
+2019-09-18 16:57:58,382  INFO [main] LogReports:26 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 16:57:58,544 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 16:57:58,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 16:57:58,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 16:57:58,544 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 16:57:58,544 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 17:06:23,078  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:06:28,011  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:06:28,012  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:06:29,460  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:06:29,609  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:06:29,769  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:06:29,927  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:06:30,035  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:06:30,135  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:06:30,243  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:06:30,613  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 17:06:30,664  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 17:06:31,934  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 17:06:31
+2019-09-18 17:06:32,602  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:06:32,602  INFO [main] LogReports:26 - user profile creation  time is: 17:06:32
+2019-09-18 17:06:32,868  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:06:32,868  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 17:06:33,118  INFO [main] LogReports:26 - fetching actual firstname value from profile :siva
+2019-09-18 17:06:33,185  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:06:33,404  INFO [main] LogReports:26 - fetching actual Lastname value from profile :mutyala
+2019-09-18 17:06:33,623  INFO [main] LogReports:26 - fetching actual mobile number value from profile :9989233795
+2019-09-18 17:06:33,826  INFO [main] LogReports:26 - fetching actual email value from profile :msiva@gmail.com
+2019-09-18 17:06:34,029  INFO [main] LogReports:26 - actual profile is:Hi, siva mutyala
+2019-09-18 17:06:34,029  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 17:06:34,029  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 17:06:42,968  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:06:47,836  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:06:47,836  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:06:49,175  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:06:49,314  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:06:49,488  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:06:49,680  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:06:49,874  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:06:49,973  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:06:50,084  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:06:50,349  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 17:06:50,349  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 17:06:51,832  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 17:06:51
+2019-09-18 17:06:52,762  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:06:52,762  INFO [main] LogReports:26 - user profile creation  time is: 17:06:52
+2019-09-18 17:06:53,012  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:06:53,012  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 17:06:53,216  INFO [main] LogReports:26 - fetching actual firstname value from profile :suresh
+2019-09-18 17:06:53,262  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:06:53,497  INFO [main] LogReports:26 - fetching actual Lastname value from profile :mutyala
+2019-09-18 17:06:53,716  INFO [main] LogReports:26 - fetching actual mobile number value from profile :8099988910
+2019-09-18 17:06:53,934  INFO [main] LogReports:26 - fetching actual email value from profile :msuresh@gmail.com
+2019-09-18 17:06:54,122  INFO [main] LogReports:26 - actual profile is:Hi, suresh mutyala
+2019-09-18 17:06:54,122  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 17:06:54,122  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 17:07:02,967  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:07:10,466  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:07:10,466  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:07:13,006  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:07:13,204  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:07:13,329  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:07:13,548  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:07:13,673  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:07:13,938  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:07:14,110  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:07:14,398  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 17:07:14,398  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 17:07:16,364  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 17:07:16
+2019-09-18 17:07:17,872  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:07:17,885  INFO [main] LogReports:26 - user profile creation  time is: 17:07:17
+2019-09-18 17:07:18,137  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:07:18,137  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 17:07:18,403  INFO [main] LogReports:26 - fetching actual firstname value from profile :sampath
+2019-09-18 17:07:18,450  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:07:18,684  INFO [main] LogReports:26 - fetching actual Lastname value from profile :nallamilli
+2019-09-18 17:07:18,919  INFO [main] LogReports:26 - fetching actual mobile number value from profile :8985239999
+2019-09-18 17:07:19,219  INFO [main] LogReports:26 - fetching actual email value from profile :nsampath@gmail.com
+2019-09-18 17:07:19,438  INFO [main] LogReports:26 - actual profile is:Hi, sampath nallamilli
+2019-09-18 17:07:19,438  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 17:07:19,438  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 17:07:36,196  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:07:44,856  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:07:44,856  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:07:47,695  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:07:47,853  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:07:48,056  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:07:48,150  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:07:48,369  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:07:48,478  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:07:48,697  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:07:48,931  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 17:07:48,931  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 17:07:50,404  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 17:07:50
+2019-09-18 17:07:51,540  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:07:51,540  INFO [main] LogReports:26 - user profile creation  time is: 17:07:51
+2019-09-18 17:07:51,888  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:07:51,888  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 17:07:52,106  INFO [main] LogReports:26 - fetching actual firstname value from profile :anvesh
+2019-09-18 17:07:52,153  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:07:52,372  INFO [main] LogReports:26 - fetching actual Lastname value from profile :chinthapalli
+2019-09-18 17:07:52,559  INFO [main] LogReports:26 - fetching actual mobile number value from profile :9502409445
+2019-09-18 17:07:52,735  INFO [main] LogReports:26 - fetching actual email value from profile :anvesh@gmail.com
+2019-09-18 17:07:52,923  INFO [main] LogReports:26 - actual profile is:Hi, anvesh chinthapalli
+2019-09-18 17:07:52,923  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 17:07:52,923  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 17:08:08,258  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:08:15,750  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:08:15,750  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:08:17,698  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:08:17,836  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:08:18,070  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:08:18,383  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:08:18,789  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:08:19,428  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:08:19,631  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:08:19,913  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 17:08:19,913  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 17:08:21,724  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 17:08:21
+2019-09-18 17:08:22,756  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:08:22,756  INFO [main] LogReports:26 - user profile creation  time is: 17:08:22
+2019-09-18 17:08:23,388  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:08:23,388  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 17:08:23,716  INFO [main] LogReports:26 - fetching actual firstname value from profile :syam
+2019-09-18 17:08:23,763  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:08:23,981  INFO [main] LogReports:26 - fetching actual Lastname value from profile :nallamati
+2019-09-18 17:08:24,200  INFO [main] LogReports:26 - fetching actual mobile number value from profile :9885707999
+2019-09-18 17:08:24,440  INFO [main] LogReports:26 - fetching actual email value from profile :syam@gmail.com
+2019-09-18 17:08:24,659  INFO [main] LogReports:26 - actual profile is:Hi, syam nallamati
+2019-09-18 17:08:24,659  INFO [main] LogReports:26 - fetched data from profile successfully
+2019-09-18 17:08:24,659  INFO [main] LogReports:26 - Asserting profile
+2019-09-18 17:08:25,581 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 17:08:25,595 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 17:08:25,596 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 17:08:25,596 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 17:08:25,596 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 17:27:34,034  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:27:38,898  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:27:38,898  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:27:40,390  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:27:40,744  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:27:40,885  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:27:41,008  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:27:41,226  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:27:41,367  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:27:41,476  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:27:41,814  INFO [main] LogReports:26 -  User  able to signUp successfully
+2019-09-18 17:27:41,908  INFO [main] LogReports:26 - fetching data from profile
+2019-09-18 17:27:43,190  INFO [main] LogReports:26 - System Current date and time is 09/18/2019 17:27:43
+2019-09-18 17:27:44,493  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:27:44,508  INFO [main] LogReports:26 - user profile creation  time is: 17:27:43
+2019-09-18 17:27:44,838  INFO [main] LogReports:26 - storing user profile creation details in  excel file
+2019-09-18 17:27:44,842  INFO [main] LogReports:26 - user profile creation date is:18 September 2019
+2019-09-18 17:33:46,710  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:33:50,690  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:33:50,690  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:33:52,057  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:33:52,202  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:33:52,342  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:33:52,483  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:33:52,608  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:33:52,717  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:33:52,873  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:36:54,059  INFO [main] LogReports:26 - Firefox browser  started
+2019-09-18 17:36:59,892  INFO [main] LogReports:26 - navigating to Php travels website
+2019-09-18 17:36:59,892  INFO [main] LogReports:26 - clicking on  my accunt
+2019-09-18 17:37:01,198  INFO [main] LogReports:26 - selecting sign up dropdown
+2019-09-18 17:37:01,305  INFO [main] LogReports:26 - sending first name to signUp field
+2019-09-18 17:37:01,449  INFO [main] LogReports:26 - sending lastname to signUp field 
+2019-09-18 17:37:01,574  INFO [main] LogReports:26 - sending mobile nbr to signUp field
+2019-09-18 17:37:01,682  INFO [main] LogReports:26 - sending email to signUp field
+2019-09-18 17:37:01,763  INFO [main] LogReports:26 - sending password to signUp field
+2019-09-18 17:37:01,876  INFO [main] LogReports:26 - sending confirm password to signUp field
+2019-09-18 17:37:04,845 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 17:37:04,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 17:37:04,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 17:37:04,861 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 17:37:04,861 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 20:50:05,149 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 20:50:05,169 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 20:50:05,169 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 20:50:05,173 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 20:50:05,173 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-09-18 20:51:10,467  INFO [main] LogReports:24 - Firefox browser  started
+2019-09-18 20:51:23,562  INFO [main] LogReports:24 - navigating to Php travels website
+2019-09-18 20:51:23,562  INFO [main] LogReports:24 - clicking on  my accunt
+2019-09-18 20:51:26,138  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:51:26,254  INFO [main] LogReports:24 - sending first name to signUp field
+2019-09-18 20:51:26,358  INFO [main] LogReports:24 - sending lastname to signUp field 
+2019-09-18 20:51:26,454  INFO [main] LogReports:24 - sending mobile nbr to signUp field
+2019-09-18 20:51:26,578  INFO [main] LogReports:24 - sending email to signUp field
+2019-09-18 20:51:26,666  INFO [main] LogReports:24 - sending password to signUp field
+2019-09-18 20:51:26,794  INFO [main] LogReports:24 - sending confirm password to signUp field
+2019-09-18 20:51:27,166  INFO [main] LogReports:24 -  User  able to signUp successfully
+2019-09-18 20:51:27,182  INFO [main] LogReports:24 - fetching data from profile
+2019-09-18 20:51:28,619  INFO [main] LogReports:24 - System Current date and time is 09/18/2019 20:51:28
+2019-09-18 20:51:30,014  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:51:30,014  INFO [main] LogReports:24 - user profile creation  time is: 20:51:29
+2019-09-18 20:51:30,259  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:51:30,259  INFO [main] LogReports:24 - user profile creation date is:18 September 2019
+2019-09-18 20:51:30,455  INFO [main] LogReports:24 - fetching actual firstname value from profile :siva
+2019-09-18 20:51:30,511  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:51:30,703  INFO [main] LogReports:24 - fetching actual Lastname value from profile :mutyala
+2019-09-18 20:51:30,863  INFO [main] LogReports:24 - fetching actual mobile number value from profile :9989233795
+2019-09-18 20:51:31,039  INFO [main] LogReports:24 - fetching actual email value from profile :msiva@gmail.com
+2019-09-18 20:51:31,193  INFO [main] LogReports:24 - actual profile is:Hi, siva mutyala
+2019-09-18 20:51:31,193  INFO [main] LogReports:24 - fetched data from profile successfully
+2019-09-18 20:51:31,193  INFO [main] LogReports:24 - Asserting profile
+2019-09-18 20:51:31,233  INFO [main] LogReports:24 - Assertion failed :  user profile not matched: Actual data : Hi, siva mutyala   Expected :H, siva mutyala
+2019-09-18 20:51:31,233  INFO [main] LogReports:24 - user profile creation validated successfully
+2019-09-18 20:51:31,868  INFO [main] LogReports:24 - validating SignUp Email field
+2019-09-18 20:51:33,102  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:51:34,280  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:51:35,362  INFO [main] LogReports:24 -  Asserting SignUpEmail field
+2019-09-18 20:51:35,366  INFO [main] LogReports:24 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 20:51:35,366  INFO [main] LogReports:24 - validating SignUp field
+2019-09-18 20:51:35,655  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:51:37,071  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:51:37,386  INFO [main] LogReports:24 - without filling any required fields directly clicking on signUp function
+2019-09-18 20:51:37,622  INFO [main] LogReports:24 - Asseting SignUp field
+2019-09-18 20:51:37,622  INFO [main] LogReports:24 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 20:51:37,950  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:51:39,510  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:51:40,690  INFO [main] LogReports:24 - Asserting password and confirm password fields
+2019-09-18 20:51:40,690  INFO [main] LogReports:24 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 20:51:46,635  INFO [main] LogReports:24 - Firefox browser  started
+2019-09-18 20:51:56,446  INFO [main] LogReports:24 - navigating to Php travels website
+2019-09-18 20:51:56,450  INFO [main] LogReports:24 - clicking on  my accunt
+2019-09-18 20:51:58,032  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:51:58,141  INFO [main] LogReports:24 - sending first name to signUp field
+2019-09-18 20:51:58,245  INFO [main] LogReports:24 - sending lastname to signUp field 
+2019-09-18 20:51:58,345  INFO [main] LogReports:24 - sending mobile nbr to signUp field
+2019-09-18 20:51:58,477  INFO [main] LogReports:24 - sending email to signUp field
+2019-09-18 20:51:58,573  INFO [main] LogReports:24 - sending password to signUp field
+2019-09-18 20:51:58,677  INFO [main] LogReports:24 - sending confirm password to signUp field
+2019-09-18 20:51:58,880  INFO [main] LogReports:24 -  User  able to signUp successfully
+2019-09-18 20:51:58,880  INFO [main] LogReports:24 - fetching data from profile
+2019-09-18 20:52:00,506  INFO [main] LogReports:24 - System Current date and time is 09/18/2019 20:52:00
+2019-09-18 20:52:01,363  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:52:01,367  INFO [main] LogReports:24 - user profile creation  time is: 20:52:01
+2019-09-18 20:52:01,595  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:52:01,595  INFO [main] LogReports:24 - user profile creation date is:18 September 2019
+2019-09-18 20:52:01,827  INFO [main] LogReports:24 - fetching actual firstname value from profile :suresh
+2019-09-18 20:52:01,883  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:52:02,095  INFO [main] LogReports:24 - fetching actual Lastname value from profile :mutyala
+2019-09-18 20:52:02,267  INFO [main] LogReports:24 - fetching actual mobile number value from profile :8099988910
+2019-09-18 20:52:02,423  INFO [main] LogReports:24 - fetching actual email value from profile :msuresh@gmail.com
+2019-09-18 20:52:02,590  INFO [main] LogReports:24 - actual profile is:Hi, suresh mutyala
+2019-09-18 20:52:02,590  INFO [main] LogReports:24 - fetched data from profile successfully
+2019-09-18 20:52:02,590  INFO [main] LogReports:24 - Asserting profile
+2019-09-18 20:52:02,590  INFO [main] LogReports:24 - Assertion failed :  user profile not matched: Actual data : Hi, suresh mutyala   Expected :H, suresh mutyala
+2019-09-18 20:52:02,590  INFO [main] LogReports:24 - user profile creation validated successfully
+2019-09-18 20:52:03,406  INFO [main] LogReports:24 - validating SignUp Email field
+2019-09-18 20:52:05,545  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:52:07,200  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:08,312  INFO [main] LogReports:24 -  Asserting SignUpEmail field
+2019-09-18 20:52:08,312  INFO [main] LogReports:24 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 20:52:08,312  INFO [main] LogReports:24 - validating SignUp field
+2019-09-18 20:52:08,606  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:52:09,897  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:10,225  INFO [main] LogReports:24 - without filling any required fields directly clicking on signUp function
+2019-09-18 20:52:10,421  INFO [main] LogReports:24 - Asseting SignUp field
+2019-09-18 20:52:10,421  INFO [main] LogReports:24 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 20:52:10,729  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:52:12,158  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:13,239  INFO [main] LogReports:24 - Asserting password and confirm password fields
+2019-09-18 20:52:13,239  INFO [main] LogReports:24 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 20:52:18,632  INFO [main] LogReports:24 - Firefox browser  started
+2019-09-18 20:52:25,044  INFO [main] LogReports:24 - navigating to Php travels website
+2019-09-18 20:52:25,044  INFO [main] LogReports:24 - clicking on  my accunt
+2019-09-18 20:52:26,843  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:26,942  INFO [main] LogReports:24 - sending first name to signUp field
+2019-09-18 20:52:27,054  INFO [main] LogReports:24 - sending lastname to signUp field 
+2019-09-18 20:52:27,150  INFO [main] LogReports:24 - sending mobile nbr to signUp field
+2019-09-18 20:52:27,274  INFO [main] LogReports:24 - sending email to signUp field
+2019-09-18 20:52:27,366  INFO [main] LogReports:24 - sending password to signUp field
+2019-09-18 20:52:27,466  INFO [main] LogReports:24 - sending confirm password to signUp field
+2019-09-18 20:52:27,670  INFO [main] LogReports:24 -  User  able to signUp successfully
+2019-09-18 20:52:27,670  INFO [main] LogReports:24 - fetching data from profile
+2019-09-18 20:52:29,400  INFO [main] LogReports:24 - System Current date and time is 09/18/2019 20:52:29
+2019-09-18 20:52:30,243  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:52:30,243  INFO [main] LogReports:24 - user profile creation  time is: 20:52:29
+2019-09-18 20:52:30,503  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:52:30,503  INFO [main] LogReports:24 - user profile creation date is:18 September 2019
+2019-09-18 20:52:30,738  INFO [main] LogReports:24 - fetching actual firstname value from profile :sampath
+2019-09-18 20:52:30,782  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:52:30,978  INFO [main] LogReports:24 - fetching actual Lastname value from profile :nallamilli
+2019-09-18 20:52:31,138  INFO [main] LogReports:24 - fetching actual mobile number value from profile :8985239999
+2019-09-18 20:52:31,302  INFO [main] LogReports:24 - fetching actual email value from profile :nsampath@gmail.com
+2019-09-18 20:52:31,462  INFO [main] LogReports:24 - actual profile is:Hi, sampath nallamilli
+2019-09-18 20:52:31,462  INFO [main] LogReports:24 - fetched data from profile successfully
+2019-09-18 20:52:31,462  INFO [main] LogReports:24 - Asserting profile
+2019-09-18 20:52:31,462  INFO [main] LogReports:24 - Assertion failed :  user profile not matched: Actual data : Hi, sampath nallamilli   Expected :H, sampath nallamilli
+2019-09-18 20:52:31,462  INFO [main] LogReports:24 - user profile creation validated successfully
+2019-09-18 20:52:32,062  INFO [main] LogReports:24 - validating SignUp Email field
+2019-09-18 20:52:33,346  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:52:34,575  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:35,663  INFO [main] LogReports:24 -  Asserting SignUpEmail field
+2019-09-18 20:52:35,663  INFO [main] LogReports:24 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 20:52:35,667  INFO [main] LogReports:24 - validating SignUp field
+2019-09-18 20:52:35,948  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:52:37,024  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:37,333  INFO [main] LogReports:24 - without filling any required fields directly clicking on signUp function
+2019-09-18 20:52:37,516  INFO [main] LogReports:24 - Asseting SignUp field
+2019-09-18 20:52:37,520  INFO [main] LogReports:24 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 20:52:37,816  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:52:39,144  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:40,299  INFO [main] LogReports:24 - Asserting password and confirm password fields
+2019-09-18 20:52:40,299  INFO [main] LogReports:24 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 20:52:46,196  INFO [main] LogReports:24 - Firefox browser  started
+2019-09-18 20:52:56,395  INFO [main] LogReports:24 - navigating to Php travels website
+2019-09-18 20:52:56,395  INFO [main] LogReports:24 - clicking on  my accunt
+2019-09-18 20:52:58,807  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:52:58,928  INFO [main] LogReports:24 - sending first name to signUp field
+2019-09-18 20:52:59,076  INFO [main] LogReports:24 - sending lastname to signUp field 
+2019-09-18 20:52:59,196  INFO [main] LogReports:24 - sending mobile nbr to signUp field
+2019-09-18 20:52:59,300  INFO [main] LogReports:24 - sending email to signUp field
+2019-09-18 20:52:59,392  INFO [main] LogReports:24 - sending password to signUp field
+2019-09-18 20:52:59,492  INFO [main] LogReports:24 - sending confirm password to signUp field
+2019-09-18 20:52:59,688  INFO [main] LogReports:24 -  User  able to signUp successfully
+2019-09-18 20:52:59,692  INFO [main] LogReports:24 - fetching data from profile
+2019-09-18 20:53:01,585  INFO [main] LogReports:24 - System Current date and time is 09/18/2019 20:53:01
+2019-09-18 20:53:02,990  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:53:02,990  INFO [main] LogReports:24 - user profile creation  time is: 20:53:02
+2019-09-18 20:53:03,262  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:53:03,266  INFO [main] LogReports:24 - user profile creation date is:18 September 2019
+2019-09-18 20:53:03,478  INFO [main] LogReports:24 - fetching actual firstname value from profile :anvesh
+2019-09-18 20:53:03,518  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:53:03,710  INFO [main] LogReports:24 - fetching actual Lastname value from profile :chinthapalli
+2019-09-18 20:53:03,878  INFO [main] LogReports:24 - fetching actual mobile number value from profile :9502409445
+2019-09-18 20:53:04,054  INFO [main] LogReports:24 - fetching actual email value from profile :anvesh@gmail.com
+2019-09-18 20:53:04,232  INFO [main] LogReports:24 - actual profile is:Hi, anvesh chinthapalli
+2019-09-18 20:53:04,232  INFO [main] LogReports:24 - fetched data from profile successfully
+2019-09-18 20:53:04,232  INFO [main] LogReports:24 - Asserting profile
+2019-09-18 20:53:04,232  INFO [main] LogReports:24 - Assertion failed :  user profile not matched: Actual data : Hi, anvesh chinthapalli   Expected :H, anvesh chinthapalli
+2019-09-18 20:53:04,232  INFO [main] LogReports:24 - user profile creation validated successfully
+2019-09-18 20:53:04,912  INFO [main] LogReports:24 - validating SignUp Email field
+2019-09-18 20:53:06,532  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:53:08,380  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:09,505  INFO [main] LogReports:24 -  Asserting SignUpEmail field
+2019-09-18 20:53:09,505  INFO [main] LogReports:24 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 20:53:09,509  INFO [main] LogReports:24 - validating SignUp field
+2019-09-18 20:53:09,806  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:53:11,392  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:11,710  INFO [main] LogReports:24 - without filling any required fields directly clicking on signUp function
+2019-09-18 20:53:11,942  INFO [main] LogReports:24 - Asseting SignUp field
+2019-09-18 20:53:11,942  INFO [main] LogReports:24 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 20:53:12,250  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:53:14,154  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:15,274  INFO [main] LogReports:24 - Asserting password and confirm password fields
+2019-09-18 20:53:15,274  INFO [main] LogReports:24 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 20:53:21,667  INFO [main] LogReports:24 - Firefox browser  started
+2019-09-18 20:53:30,489  INFO [main] LogReports:24 - navigating to Php travels website
+2019-09-18 20:53:30,489  INFO [main] LogReports:24 - clicking on  my accunt
+2019-09-18 20:53:32,219  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:32,344  INFO [main] LogReports:24 - sending first name to signUp field
+2019-09-18 20:53:32,453  INFO [main] LogReports:24 - sending lastname to signUp field 
+2019-09-18 20:53:32,593  INFO [main] LogReports:24 - sending mobile nbr to signUp field
+2019-09-18 20:53:32,732  INFO [main] LogReports:24 - sending email to signUp field
+2019-09-18 20:53:32,908  INFO [main] LogReports:24 - sending password to signUp field
+2019-09-18 20:53:33,004  INFO [main] LogReports:24 - sending confirm password to signUp field
+2019-09-18 20:53:33,220  INFO [main] LogReports:24 -  User  able to signUp successfully
+2019-09-18 20:53:33,220  INFO [main] LogReports:24 - fetching data from profile
+2019-09-18 20:53:35,091  INFO [main] LogReports:24 - System Current date and time is 09/18/2019 20:53:35
+2019-09-18 20:53:36,448  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:53:36,448  INFO [main] LogReports:24 - user profile creation  time is: 20:53:36
+2019-09-18 20:53:36,663  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:53:36,663  INFO [main] LogReports:24 - user profile creation date is:18 September 2019
+2019-09-18 20:53:36,887  INFO [main] LogReports:24 - fetching actual firstname value from profile :syam
+2019-09-18 20:53:36,943  INFO [main] LogReports:24 - storing user profile creation details in  excel file
+2019-09-18 20:53:37,123  INFO [main] LogReports:24 - fetching actual Lastname value from profile :nallamati
+2019-09-18 20:53:37,299  INFO [main] LogReports:24 - fetching actual mobile number value from profile :9885707999
+2019-09-18 20:53:37,495  INFO [main] LogReports:24 - fetching actual email value from profile :syam@gmail.com
+2019-09-18 20:53:37,690  INFO [main] LogReports:24 - actual profile is:Hi, syam nallamati
+2019-09-18 20:53:37,690  INFO [main] LogReports:24 - fetched data from profile successfully
+2019-09-18 20:53:37,690  INFO [main] LogReports:24 - Asserting profile
+2019-09-18 20:53:37,690  INFO [main] LogReports:24 - Assertion failed :  user profile not matched: Actual data : Hi, syam nallamati   Expected :H, syam nallamati
+2019-09-18 20:53:37,690  INFO [main] LogReports:24 - user profile creation validated successfully
+2019-09-18 20:53:38,322  INFO [main] LogReports:24 - validating SignUp Email field
+2019-09-18 20:53:40,723  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:53:42,389  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:43,519  INFO [main] LogReports:24 -  Asserting SignUpEmail field
+2019-09-18 20:53:43,519  INFO [main] LogReports:24 - Assertion Passed : validating SignUp Email field: Actual data : The Email field must contain a valid email address.   Expected :The Email field must contain a valid email address.
+2019-09-18 20:53:43,520  INFO [main] LogReports:24 - validating SignUp field
+2019-09-18 20:53:43,818  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:53:45,367  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:45,701  INFO [main] LogReports:24 - without filling any required fields directly clicking on signUp function
+2019-09-18 20:53:45,888  INFO [main] LogReports:24 - Asseting SignUp field
+2019-09-18 20:53:45,888  INFO [main] LogReports:24 - Assertion Passed : validatingSignUpFunction: Actual data : The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.   Expected :The Email field is required.
+The Password field is required.
+The Password field is required.
+The First name field is required.
+The Last Name field is required.
+2019-09-18 20:53:46,184  INFO [main] LogReports:24 - clicking my accunt
+2019-09-18 20:53:47,728  INFO [main] LogReports:24 - selecting sign up dropdown
+2019-09-18 20:53:48,845  INFO [main] LogReports:24 - Asserting password and confirm password fields
+2019-09-18 20:53:48,845  INFO [main] LogReports:24 - Assertion Passed : validating SignUp password field: Actual data : Password not matching with confirm password.   Expected :Password not matching with confirm password.
+2019-09-18 20:53:48,880 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-09-18 20:53:48,880 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-09-18 20:53:48,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-09-18 20:53:48,884 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-09-18 20:53:48,884 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/siva.mutyala/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
